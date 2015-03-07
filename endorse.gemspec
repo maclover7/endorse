@@ -20,5 +20,6 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'claide'
 
+  spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake", "~> 10.0"
 end

@@ -1,4 +1,5 @@
 # Endorse
+[![Build Status](https://travis-ci.org/maclover7/endorse.svg?branch=master)](https://travis-ci.org/maclover7/endorse)
 
 Endorse will validate that the gem you are downloading is for real!
 
